@@ -1,4 +1,4 @@
-# Plebnet.dev website
+# Staging repo for new web
 
 Build the Future with Plebnet.dev on bitcoin and lightning.
 
